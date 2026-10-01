@@ -1,0 +1,18 @@
+{
+  "name": "ticketflow",
+  "version": "0.1.0",
+  "description": "Tool- and project-agnostic ticket workflow — discovery, drafts, backlog grooming, tracked development, and handoffs. Adapts to available integrations or local files. Work-source writes require explicit confirmation.",
+  "author": {
+    "name": "mniehe"
+  },
+  "repository": "https://github.com/mniehe/ticketflow",
+  "license": "MIT",
+  "keywords": [
+    "tool-agnostic",
+    "tickets",
+    "project-management",
+    "workflow",
+    "pr",
+    "handoff"
+  ]
+}
